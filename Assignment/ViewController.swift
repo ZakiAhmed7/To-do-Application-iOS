@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UITableViewController {
     
-    let contex = (UIApplication.shared.delegate as! AppDelegate).
+    let contex = (UIApplication.shared.delegate as! AppDelegate)
     
     var items : [String] = ["Task "]
     
